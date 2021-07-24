@@ -1,9 +1,11 @@
-# Multi Collateral Dai
+# Multi Collateral Pai
+Overcollateralized stablecoin for the Pulsechain network
+
 [![Build Status](https://travis-ci.com/makerdao/dss.svg?branch=master)](https://travis-ci.com/makerdao/dss)
 [![codecov](https://codecov.io/gh/makerdao/dss/branch/master/graph/badge.svg)](https://codecov.io/gh/makerdao/dss)
 
 This repository contains the core smart contract code for Multi
-Collateral Dai. This is a high level description of the system, assuming
+Collateral Pai. This is a high level description of the system, assuming
 familiarity with the basic economic mechanics as described in the
 whitepaper.
 
